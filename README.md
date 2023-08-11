@@ -1,6 +1,5 @@
 # pythonOOlearning
 Python Object Oriented Programming Learning
-Sure, here's a step-by-step guide to achieve what you're looking for:
 
 1. **Create a Directory ('repos') and Clone Repository:**
    Open the Terminal on your Mac and follow these commands:
